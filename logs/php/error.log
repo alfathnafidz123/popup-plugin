@@ -1,0 +1,112 @@
+[19-Feb-2025 03:02:44 UTC] PHP Warning:  require_once(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:02:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php:20
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('alfath-popup/al...')
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\plugins.php(60): activate_plugin('alfath-popup/al...', 'http://wp-plugi...', false)
+#3 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:15:10 UTC] PHP Warning:  require_once(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:15:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php:20
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('alfath-popup/al...')
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\plugins.php(60): activate_plugin('alfath-popup/al...', 'http://wp-plugi...', false)
+#3 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:17:56 UTC] PHP Warning:  require_once(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:17:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php:20
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('alfath-popup/al...')
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\plugins.php(60): activate_plugin('alfath-popup/al...', 'http://wp-plugi...', false)
+#3 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:19:35 UTC] PHP Warning:  require_once(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:19:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php:20
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('alfath-popup/al...')
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\plugins.php(60): activate_plugin('alfath-popup/al...', 'http://wp-plugi...', false)
+#3 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:34:59 UTC] PHP Warning:  require_once(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:34:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php:20
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('alfath-popup/al...')
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\plugins.php(60): activate_plugin('alfath-popup/al...', 'http://wp-plugi...', false)
+#3 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:39:23 UTC] PHP Warning:  require_once(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:39:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php:20
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('alfath-popup/al...')
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\plugins.php(60): activate_plugin('alfath-popup/al...', 'http://wp-plugi...', false)
+#3 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:39:26 UTC] PHP Warning:  require_once(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:39:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php:20
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('alfath-popup/al...')
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\plugins.php(60): activate_plugin('alfath-popup/al...', 'http://wp-plugi...', false)
+#3 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:39:27 UTC] PHP Warning:  require_once(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:39:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php:20
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('alfath-popup/al...')
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\plugins.php(60): activate_plugin('alfath-popup/al...', 'http://wp-plugi...', false)
+#3 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:39:27 UTC] PHP Warning:  require_once(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:39:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php:20
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('alfath-popup/al...')
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\plugins.php(60): activate_plugin('alfath-popup/al...', 'http://wp-plugi...', false)
+#3 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:39:28 UTC] PHP Warning:  require_once(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:39:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup/includes/class-popup.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php:20
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('alfath-popup/al...')
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\plugins.php(60): activate_plugin('alfath-popup/al...', 'http://wp-plugi...', false)
+#3 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\alfath-popup.php on line 20
+[19-Feb-2025 03:44:33 UTC] PHP Warning:  require_once(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes/api-class.php.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes\popup-class.php on line 26
+[19-Feb-2025 03:44:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes/api-class.php.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes\popup-class.php:26
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\class-wp-hook.php(324): Artistudio\Popup->register_api_routes(Object(WP_REST_Server))
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\rest-api.php(618): do_action('rest_api_init', Object(WP_REST_Server))
+#4 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\rest-api.php(576): rest_get_server()
+#5 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\rest-api.php(2957): rest_do_request(Object(WP_REST_Request))
+#6 [internal function]: rest_preload_api_request(Array, '/wp/v2/types?co...')
+#7 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\block-editor.php(753): array_reduce(Array, 'rest_preload_ap...', Array)
+#8 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\edit-form-blocks.php(77): block_editor_rest_api_preload(Array, Object(WP_Block_Editor_Context))
+#9 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-admin\post-new.php(72): require('C:\\Users\\alfath...')
+#10 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes\popup-class.php on line 26
+[19-Feb-2025 03:59:04 UTC] PHP Fatal error:  Uncaught Error: Non-static method Artistudio\API::register_routes() cannot be called statically in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes\popup-class.php:27
+Stack trace:
+#0 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\class-wp-hook.php(324): Artistudio\Popup->register_api_routes(Object(WP_REST_Server))
+#1 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\rest-api.php(618): do_action('rest_api_init', Object(WP_REST_Server))
+#4 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\rest-api.php(442): rest_get_server()
+#5 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#6 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#8 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#9 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#10 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-includes\functions.php(1336): WP->main('')
+#11 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-blog-header.php(16): wp()
+#12 C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\index.php(17): require('C:\\Users\\alfath...')
+#13 {main}
+  thrown in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes\popup-class.php on line 27
