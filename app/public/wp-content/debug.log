@@ -4624,3 +4624,22 @@ Stack trace:
 [19-Feb-2025 09:54:46 UTC] User is NOT an admin
 [19-Feb-2025 09:54:47 UTC] User is NOT an admin
 [19-Feb-2025 09:54:47 UTC] User is NOT an admin
+[19-Feb-2025 10:34:37 UTC] User is NOT an admin
+[19-Feb-2025 10:34:38 UTC] User is NOT an admin
+[19-Feb-2025 10:34:38 UTC] User is NOT an admin
+[19-Feb-2025 10:34:49 UTC] User is NOT an admin
+[19-Feb-2025 10:34:49 UTC] User is NOT an admin
+[19-Feb-2025 10:34:50 UTC] User is NOT an admin
+[19-Feb-2025 10:34:57 UTC] User is NOT an admin
+[19-Feb-2025 10:34:59 UTC] User is NOT an admin
+[19-Feb-2025 10:35:01 UTC] User is NOT an admin
+[19-Feb-2025 10:35:01 UTC] PHP Warning:  include(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes/templates/popup_template.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes\popup-class.php on line 104
+[19-Feb-2025 10:35:01 UTC] PHP Warning:  include(): Failed opening 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes/templates/popup_template.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes\popup-class.php on line 104
+[19-Feb-2025 10:35:01 UTC] PHP Warning:  include(C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes/templates/popup_template.php): Failed to open stream: No such file or directory in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes\popup-class.php on line 104
+[19-Feb-2025 10:35:01 UTC] PHP Warning:  include(): Failed opening 'C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes/templates/popup_template.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\alfath\Local Sites\wp-plugin-alfath\app\public\wp-content\plugins\alfath-popup\includes\popup-class.php on line 104
+[19-Feb-2025 10:35:01 UTC] User is NOT an admin
+[19-Feb-2025 10:35:02 UTC] User is NOT an admin
+[19-Feb-2025 10:35:03 UTC] User is NOT an admin
+[19-Feb-2025 10:35:03 UTC] User is NOT an admin
+[19-Feb-2025 10:35:04 UTC] User is NOT an admin
+[19-Feb-2025 10:35:04 UTC] User is NOT an admin
