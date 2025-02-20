@@ -2,7 +2,7 @@
 
 This plugin is a WordPress pop-up solution that includes a Custom Post Type (CPT) for pop-ups, a secured REST API that only logged-in users can access, and a modern pop-up display using Vue.js and standard CSS.
 
-## 📌 Features
+## Features
 
 - **Custom Post Type (CPT):** Manage pop-up data through the WordPress admin panel.
 - **REST API Endpoint:** Retrieve pop-up data via `/wp-json/artistudio/v1/popup`, accessible only to logged-in users.
@@ -11,7 +11,7 @@ This plugin is a WordPress pop-up solution that includes a Custom Post Type (CPT
 
 ---
 
-## 🚀 Installation
+## Installation
 
 
 1. Clone this repository into your WordPress plugin folder:
