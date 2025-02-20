@@ -21,7 +21,7 @@ This plugin is a WordPress pop-up solution that includes a Custom Post Type (CPT
   - Navigate to Plugins.
   - Locate Artistudio Pop-Up Plugin and click Activate.
 
-4. Creating the "Popups" Custom Post Type
+3. Creating the "Popups" Custom Post Type
 Upon activation, the plugin automatically registers a CPT with the slug popup. To create a new pop-up:
   - Go to the WordPress Dashboard.
   - Find the Popups menu on the left sidebar.
